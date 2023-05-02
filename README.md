@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yanki Saplan
 ====================================================================================================================================
 
-Applied Data Science at Penn State, University Park
+Masters of Science in Applied Data Sciences at U Chicago
 ---------------------------------------------------
 
-I enjoy doing Exploratory Data Analysis with large and complex datasets. During my previous internship experience with Johnson & Johnson I practiced story telling from multi dimensional dataset’s as well as building user friendly dashboards through R Studio and AWS. Currently, I am an incoming Data Scientist Intern at Johnson & Johnson and this year my studies focus on machine learning model building. I constantly participate in Kaggle competitions to enhance my understanding of supervised, semi-supervised, and unsupervised machine learning algorithms using Python and R programming language. Experience / Internships - Data Scientist, Machine Learning Intern at Johnson & Johnson - 2022 - Data Analytics Intern at Johnson & Johnson - 2021
+📌 Through two extensive Data Science internships at Johnson & Johnson, I have gained valuable experience in statistical modeling, data analytics, machine learning, and data engineering via programming languages like R, Python, SQL, and JS. 
+
+📌 During my first internship as a Data Science Analyst, I was able to develop dashboards utilizing BRQC audit data. The majority of these innovation projects focused on automating complex business auditing processes. 
+
+📌 During my second internship as a Data Scientist, Machine Learning Engineer I was a part of the Commercial Data Science team within Janssen Pharmaceuticals. My summer project enabled me to work with multidimensional EHR data. The scope of the project was to increase the utility of the dataset to be used for clients. This project required me to conduct research on Natural Language Processing techniques as well as understand statistical distribution algorithms such as (LDA) Latent Dirichlet Allocation in order to analyze and interpret unstructured text data.
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [See my portfolio website HERE!](http://saplanyanki.github.io/main/)
@@ -12,7 +16,6 @@ I enjoy doing Exploratory Data Analysis with large and complex datasets. During 
 * 🚀  I'm currently working on [World Danger Sentiment Scoring](http://rpubs.com/yankisaplan/live-feed)
 * 🧠  I'm learning Machine Learning, Data Science, Analytics, Computer Sciences
 * 🤝  I'm open to collaborating on Data Intense self made projects
-* ⚡  I am looking for FULL-TIME positions related with Data Sciences
 
 ### Skills
 
