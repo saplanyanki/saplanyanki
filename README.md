@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yanki Saplan
 ====================================================================================================================================
 
-Masters of Science in Applied Data Sciences at U Chicago
 ---------------------------------------------------
 
 📌 Through two extensive Data Science internships at Johnson & Johnson, I have gained valuable experience in statistical modeling, data analytics, machine learning, and data engineering via programming languages like R, Python, SQL, and JS. 
